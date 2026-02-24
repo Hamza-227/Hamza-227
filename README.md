@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-227&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-227" /> </p>
 
-- 🌱 I’m currently learning **NUMPY , PANDAS**
+- 🌱 I’m currently learning **NUMPY,PANDAS**
 
 - 📫 How to reach me **hamzaanjum650@gmail.com**
 
