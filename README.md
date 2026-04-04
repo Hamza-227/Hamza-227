@@ -51,13 +51,14 @@
 <details>
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-227&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Hamza-227&theme=tokyonight&hide_border=true" />
 </p>
+
 </details>
-<hr>
-<details>
 <summary><b>📚 Recent Projects / Activity</b></summary>
 <br>
 
@@ -65,14 +66,14 @@
 ✨ <a href="https://github.com/Hamza-227/Retail-customer-insights-sales-optimization">Retail Sales Dashboard</a><br>
 ✨ <a href="https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis">Bank Loan Risk Analysis</a><br>
 
-</details>
-<hr>
 <details>
 <summary><b>📈 Code Stats</b></summary>
 <br>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 </details>
 <hr>
 
