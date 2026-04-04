@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0"/>
 <br>
-<b>Tools & Platforms:</b><br>
+<b>Tools & Platforms:</b>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/Harvard-CS50%20Python-red?style=for-the-badge"/>
 </a>
 </p>
-<hr>
 <hr>
 <details>
 <summary><b>⚙️ GitHub Analytics</b></summary>
