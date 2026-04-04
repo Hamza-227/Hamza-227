@@ -6,10 +6,14 @@
   <a href="mailto:hamzaanjum664@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamza-227&label=Profile%20Views&color=000000&style=flat" />
+</p>
+
 ---
 
 👨🏻‍💻 **About Me**  
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="320px" align="right"> 
 
 ✨ Data Analyst | Python | SQL | Power BI <br>
 ⚡ Turning raw data into **business decisions** <br>
@@ -29,7 +33,7 @@
 **Libraries:**  
 <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat">&nbsp;
 
 **Tools & Platforms:**  
@@ -43,10 +47,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-Professional-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Python-Programming-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-Data%20Analysis-orange?style=for-the-badge">
+<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-82ac3c28-c39f-409a-8d8a-153aebd26ebe.jpg">
+<img src="https://img.shields.io/badge/Udemy-SQL%20%26%20Data%20Analysis-purple?style=for-the-badge&logo=udemy&logoColor=white">
+</a>
+
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Bi6siW6NHK8Jknz58_1744988153029_completion_certificate.pdf">
 <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-black?style=for-the-badge">
+</a>
+
+<a href="https://certificates.cs50.io/c9667992-481b-43f3-95f2-2cf509f1939b.pdf?size=letter">
+<img src="https://img.shields.io/badge/Harvard-CS50%20Python-red?style=for-the-badge">
+</a>
 
 </div>
 
@@ -56,8 +67,8 @@
 <summary><b>⚙️ GitHub Analytics</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-227&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-227&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-227&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-227&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 </details>
@@ -68,7 +79,7 @@
 <summary><b>📈 Code Activity</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-227&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-227&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 </details>
