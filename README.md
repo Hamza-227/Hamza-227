@@ -19,16 +19,16 @@
 <hr>
 <h2>🛠 Tech Stack</h2>
 <p>
-<b>Languages:</b><br>
+<b>Languages:</b>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white"/>
-<br><br>
-<b>Libraries:</b><br>
+<br>
+<b>Libraries:</b>
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0"/>
-<br><br>
+<br>
 <b>Tools & Platforms:</b><br>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
@@ -48,33 +48,16 @@
 </a>
 </p>
 <hr>
-<details>
-<summary><b>📝 Curated Work</b></summary>
-<br>
-📘 <a href="https://github.com/Hamza-227/Retail-customer-insights-sales-optimization">Retail Customer Insights & Sales Optimization</a><br>
-📒 <a href="https://github.com/Hamza-227/SaaS-Customer-Churn-Cohort-Analysis">SaaS Customer Churn & Cohort Analysis</a><br>
-📙 <a href="https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis">Bank Loan Performance & Risk Analysis</a><br>
-
-<br>
-➡️ More projects on my GitHub profile...
-
-</details>
-
 <hr>
-
 <details>
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-227&theme=tokyonight"/>
 </p>
-
 </details>
-
 <hr>
-
 <details>
 <summary><b>📚 Recent Projects / Activity</b></summary>
 <br>
@@ -84,19 +67,14 @@
 ✨ <a href="https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis">Bank Loan Risk Analysis</a><br>
 
 </details>
-
 <hr>
-
 <details>
 <summary><b>📈 Code Stats</b></summary>
 <br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight"/>
 </p>
-
 </details>
-
 <hr>
 
 <p align="center">
