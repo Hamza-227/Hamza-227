@@ -67,8 +67,8 @@
 <summary><b>⚙️ GitHub Analytics</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza-227&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-227&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-227&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 </details>
