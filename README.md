@@ -6,25 +6,21 @@
   <a href="mailto:hamzaanjum664@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamza-227&label=Profile%20Views&color=000000&style=flat" />
-</p>
-
----
+-----------------------------------------------------------
 
 👨🏻‍💻 **About Me**  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="320px" align="right"> 
 
 ✨ Data Analyst | Python | SQL | Power BI <br>
 ⚡ Turning raw data into **business decisions** <br>
-📊 Specialized in dashboards, EDA & ETL pipelines <br>
-🌍 Open to **Remote Data Analyst Roles** <br>
+📊 Skilled in **EDA, ETL & KPI Dashboards** <br>
+🌍 Open to **Remote Opportunities** <br>
 📫 Reach me: <a href="mailto:hamzaanjum664@gmail.com">Email</a> | <a href="https://linkedin.com/in/hamza-anjum-459bba320/">LinkedIn</a> <br>
 💬 Ask me about Data Analysis, SQL, Power BI  
 
 ---
 
-<b>🛠 Tech Stack</b><br><br>
+<b>🛠 Tech Stack / Certifications</b><br><br>
 
 **Languages:**  
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
@@ -64,11 +60,24 @@
 ---
 
 <details>	
+<summary><b>📝 Curated Work</b></summary><br>
+
+📘 <a href="https://github.com/Hamza-227/Retail-customer-insights-sales-optimization">Retail Customer Insights & Sales Optimization</a><br>
+📒 <a href="https://github.com/Hamza-227/SaaS-Customer-Churn-Cohort-Analysis">SaaS Customer Churn & Cohort Analysis</a><br>
+📙 <a href="https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis">Bank Loan Performance & Risk Analysis</a><br>
+
+➡️ More projects on my GitHub profile...
+
+</details>
+
+---
+
+<details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-227&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-227&theme=tokyonight" />
 </p>
 
 </details>
@@ -76,10 +85,21 @@
 ---
 
 <details>	
-<summary><b>📈 Code Activity</b></summary>
+<summary><b>📚 Recent Projects / Activity</b></summary><br>
+
+✨ <a href="https://github.com/Hamza-227/SaaS-Customer-Churn-Cohort-Analysis">SaaS Customer Churn Analysis</a><br>
+✨ <a href="https://github.com/Hamza-227/Retail-customer-insights-sales-optimization">Retail Sales Dashboard</a><br>
+✨ <a href="https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis">Bank Loan Risk Analysis</a><br>
+
+</details>
+
+---
+
+<details>	
+<summary><b>📈 Code Stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-227&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight" />
 </p>
 
 </details>
