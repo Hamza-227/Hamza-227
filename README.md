@@ -1,223 +1,81 @@
-<h1 align="center">Hi 👋, I'm Hamza Anjum</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Turning Data into Business Decisions</h3>
+<h1 align="center"> Hi there, I'm <a href="https://hamza-anjum-portfolio.netlify.app/">Hamza</a> </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hamza-anjum-459bba320/">LinkedIn</a> •
-  <a href="https://hamza-anjum-portfolio.netlify.app/">Portfolio</a> •
+  <a href="https://hamza-anjum-portfolio.netlify.app/">Portfolio</a> -
+  <a href="https://linkedin.com/in/hamza-anjum-459bba320/">LinkedIn</a> - 
   <a href="mailto:hamzaanjum664@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 📊 Data Analyst based in **Lahore, Pakistan**
-- 🔍 I don’t just run queries — I **find insights that drive decisions**
-- 🧠 Specialized in **Python, SQL, Power BI & Excel**
-- ⚡ Build complete pipelines: **Raw Data → Cleaning → Analysis → Dashboard**
-- 🌍 Open to **Remote Data Analyst Roles (Full-time / Contract)**
+👨🏻‍💻 **About Me**  
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+✨ Data Analyst | Python | SQL | Power BI <br>
+⚡ Turning raw data into **business decisions** <br>
+📊 Specialized in dashboards, EDA & ETL pipelines <br>
+🌍 Open to **Remote Data Analyst Roles** <br>
+📫 Reach me: <a href="mailto:hamzaanjum664@gmail.com">Email</a> | <a href="https://linkedin.com/in/hamza-anjum-459bba320/">LinkedIn</a> <br>
+💬 Ask me about Data Analysis, SQL, Power BI  
 
 ---
 
-### 💼 Experience
+<b>🛠 Tech Stack</b><br><br>
 
-**Freelance Data Analyst — Fiverr (Remote)**  
-📅 Sep 2025 – Present  
+**Languages:**  
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-CC2927?logo=mysql&logoColor=white&style=flat">&nbsp;
 
-- Built **KPI dashboards in Power BI** (DAX, Power Query)
-- Designed **ETL pipelines** (Extraction → Cleaning → Transformation)
-- Performed **EDA using Python (Pandas, Seaborn, Matplotlib)**
-- Developed **SQL reporting systems**
-- Ensured **95%+ data quality**
-- Delivered insights on **sales, customer behavior & operations**
+**Libraries:**  
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat">&nbsp;
 
----
-
-### 📊 Featured Projects
-
-📌 **Bank Loan Risk Analysis**  
-- Analyzed **38K+ records**  
-- Built ETL pipeline (Python + SQL)  
-- Power BI dashboard improved risk identification by **30%**
-
-📌 **Telecom Customer Churn Analysis**  
-- Cohort analysis for retention patterns  
-- Improved strategy effectiveness by **20%**
-
-📌 **Retail Customer Behavior Analysis**  
-- Customer segmentation + EDA  
-- Increased marketing efficiency by **25%**
+**Tools & Platforms:**  
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat">&nbsp;
 
 ---
 
-### 🛠️ Tech Stack
+## 🏅 Certification Badges
 
-**Languages & Tools:**  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</p>
+<div align="center">
 
-**BI & Analytics:**  
-- Power BI (DAX, Power Query)  
-- Excel (Pivot Tables, VLOOKUP)  
-- Data Modeling & ETL  
+<img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-Professional-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Programming-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-Data%20Analysis-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-black?style=for-the-badge">
+
+</div>
 
 ---
 
-### 🧠 Skills
-
-- 📈 Data Analysis & Business Insights  
-- 🧹 Data Cleaning & Preprocessing  
-- 🔍 Exploratory Data Analysis (EDA)  
-- 📊 KPI Dashboard Development  
-- 📦 ETL Pipelines  
-- 🧩 Problem Solving & Analytical Thinking  
-
----
-
-### 🎓 Education
-
-**BS Computer Science (BSCS)**  
-UVAS Business School  
-📅 2024 – 2028  
-
----
-
-### 📜 Certifications
-
-- 📘 Introduction to Programming with Python  
-- 📊 SQL for Data Analysis  
-- 💼 Deloitte Australia Data Analytics Job Simulation  
-- 🧠 Data Science & Data Analytics  
-
----
-
-### 📫 Contact Me
-
-📧 Email: **hamzaanjum664@gmail.com**  
-🌐 Portfolio: https://hamza-anjum-portfolio.netlify.app/  
-💼 LinkedIn: https://linkedin.com/in/hamza-anjum-459bba320/  
-
----
-
-### 💡 Fun Fact
-
-> I turn messy datasets into clean insights faster than most people decide what to watch on Netflix 😄
-
----
-
-⭐ **If you like my work, consider starring my repositories!**<h1 align="center">Hi 👋, I'm Hamza Anjum</h1>
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Turning Data into Business Decisions</h3>
+<details>	
+<summary><b>⚙️ GitHub Analytics</b></summary>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hamza-anjum-459bba320/">LinkedIn</a> •
-  <a href="https://hamza-anjum-portfolio.netlify.app/">Portfolio</a> •
-  <a href="mailto:hamzaanjum664@gmail.com">Email</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-227&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-227&theme=tokyonight" />
 </p>
 
----
-
-### 🚀 About Me
-- 📊 Data Analyst based in **Lahore, Pakistan**
-- 🔍 I don’t just run queries — I **find insights that drive decisions**
-- 🧠 Specialized in **Python, SQL, Power BI & Excel**
-- ⚡ Build complete pipelines: **Raw Data → Cleaning → Analysis → Dashboard**
-- 🌍 Open to **Remote Data Analyst Roles (Full-time / Contract)**
+</details>
 
 ---
 
-### 💼 Experience
+<details>	
+<summary><b>📈 Code Activity</b></summary>
 
-**Freelance Data Analyst — Fiverr (Remote)**  
-📅 Sep 2025 – Present  
-
-- Built **KPI dashboards in Power BI** (DAX, Power Query)
-- Designed **ETL pipelines** (Extraction → Cleaning → Transformation)
-- Performed **EDA using Python (Pandas, Seaborn, Matplotlib)**
-- Developed **SQL reporting systems**
-- Ensured **95%+ data quality**
-- Delivered insights on **sales, customer behavior & operations**
-
----
-
-### 📊 Featured Projects
-
-📌 **Bank Loan Risk Analysis**  
-- Analyzed **38K+ records**  
-- Built ETL pipeline (Python + SQL)  
-- Power BI dashboard improved risk identification by **30%**
-
-📌 **Telecom Customer Churn Analysis**  
-- Cohort analysis for retention patterns  
-- Improved strategy effectiveness by **20%**
-
-📌 **Retail Customer Behavior Analysis**  
-- Customer segmentation + EDA  
-- Increased marketing efficiency by **25%**
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Tools:**  
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-227&layout=compact&theme=tokyonight" />
 </p>
 
-**BI & Analytics:**  
-- Power BI (DAX, Power Query)  
-- Excel (Pivot Tables, VLOOKUP)  
-- Data Modeling & ETL  
+</details>
 
 ---
 
-### 🧠 Skills
-
-- 📈 Data Analysis & Business Insights  
-- 🧹 Data Cleaning & Preprocessing  
-- 🔍 Exploratory Data Analysis (EDA)  
-- 📊 KPI Dashboard Development  
-- 📦 ETL Pipelines  
-- 🧩 Problem Solving & Analytical Thinking  
-
----
-
-### 🎓 Education
-
-**BS Computer Science (BSCS)**  
-UVAS Business School  
-📅 2024 – 2028  
-
----
-
-### 📜 Certifications
-
-- 📘 Introduction to Programming with Python  
-- 📊 SQL for Data Analysis  
-- 💼 Deloitte Australia Data Analytics Job Simulation  
-- 🧠 Data Science & Data Analytics  
-
----
-
-### 📫 Contact Me
-
-📧 Email: **hamzaanjum664@gmail.com**  
-🌐 Portfolio: https://hamza-anjum-portfolio.netlify.app/  
-💼 LinkedIn: https://linkedin.com/in/hamza-anjum-459bba320/  
-
----
-
-### 💡 Fun Fact
-
-> I turn messy datasets into clean insights faster than most people decide what to watch on Netflix 😄
-
----
-
-⭐ **If you like my work, consider starring my repositories!**
+<p align="center">
+Do you want to collaborate? ⟶ <a href="mailto:hamzaanjum664@gmail.com">Contact Me</a><br>
+<b>Show some ❤️ by starring repositories!</b>
+</p>
