@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Building+ETL+pipelines+%26+Star+Schema+warehouses;Python+%2B+SQL+%2B+Power+BI+%3D+actionable+insight;Open+to+remote+Data+Analyst+roles+%F0%9F%8C%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=650&lines=Analyzing+data+to+support+business+decisions;Building+ETL+pipelines+%26+Star+Schema+data+warehouses;Data+Analyst+%E2%80%94+Python%2C+SQL+%26+Power+BI;Open+to+remote+Data+Analyst+roles+%F0%9F%8C%8D"/>
 
 </div>
 
@@ -21,14 +21,13 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
 
-I'm a **Data Analyst** who builds end-to-end analytics solutions — from raw, messy data to executive-ready dashboards — across e-commerce, banking, SaaS, marketing, and retail. I care about the story behind the numbers: the pipeline is just plumbing, the insight is the point.
+I'm a **Data Analyst** with a portfolio of independent analytics projects spanning e-commerce, banking, SaaS, marketing, and retail datasets. Each project follows a consistent workflow: data cleaning and ETL in Python, analysis and transformation in SQL, and visualization in Power BI, concluding with data-driven observations.
 
-- 🔭 Currently freelancing as a **Data Analyst on Fiverr** (2024 – Present)
-- 🏗️ Building end-to-end pipelines — **Python → SQL → Power BI → business recommendations**
-- 📈 Specialize in **data warehousing, RFM segmentation, CLV modeling & churn analytics**
-- 🎓 Studying **BS Computer Science** at UVAS Business School (2024 – 2028)
-- 🌍 **Open to remote Data Analyst roles** — let's talk if you're hiring
-- ⚡ Fun fact: every project below started as a messy spreadsheet nobody wanted to touch
+- 🔭 Currently working as a **Data Analyst (freelance) on Fiverr** (2024 – Present)
+- 🏗️ Project workflow: **Python (cleaning/ETL) → SQL (analysis) → Power BI (visualization) → written findings**
+- 📈 Applied coursework and project experience in **data warehousing, RFM segmentation, CLV modeling, and churn analysis**
+- 🎓 Pursuing a **BS in Computer Science** at UVAS Business School (2024 – 2028)
+- 🌍 **Actively seeking remote Data Analyst and internship opportunities**
 
 <br clear="right"/>
 
@@ -94,9 +93,9 @@ I'm a **Data Analyst** who builds end-to-end analytics solutions — from raw, m
 <td width="50%" valign="top">
 
 ### 🏗️ [Shopify Data Warehouse & Customer Intelligence Platform](https://github.com/Hamza-227/Shopify_sales_analysis-)
-7-table star schema over **60,000+ orders** built with Python + advanced SQL (CTEs, LAG, LEAD, RANK, NTILE). RFM segmentation & CLV modeling feed executive Power BI dashboards.
+Designed a 7-table star schema data warehouse for **60,000+ order records** using Python for ETL and SQL (CTEs, window functions — LAG, LEAD, RANK, NTILE) for analysis. Built RFM segmentation and CLV models, visualized in Power BI dashboards.
 
-**Impact:** uncovered a Pareto insight — top 20% of customers drive **~80% of revenue**.
+**Key Finding:** Analysis showed a Pareto-type distribution, with the top 20% of customers accounting for an estimated **~80% of total revenue** in the dataset.
 
 `Python` `PostgreSQL` `Power BI` `RFM/CLV`
 
@@ -104,9 +103,9 @@ I'm a **Data Analyst** who builds end-to-end analytics solutions — from raw, m
 <td width="50%" valign="top">
 
 ### 📣 [Marketing Performance & Sentiment Analytics Platform](https://github.com/Hamza-227/Marketing__Analytics)
-End-to-end marketing pipeline in Python, SQL Server & Power BI with sentiment analysis (NLTK, VADER) and CTR/engagement KPI tracking.
+Built a marketing analytics pipeline using Python, SQL Server, and Power BI, including sentiment analysis (NLTK, VADER) and tracking of CTR and engagement KPIs across campaign segments.
 
-**Impact:** surfaced a **4.3% vs 10.2%** conversion gap across customer segments.
+**Key Finding:** Segment-level analysis revealed a conversion rate gap of **4.3% vs. 10.2%** between the lowest- and highest-performing customer segments.
 
 `Python` `SQL Server` `Power BI` `NLP`
 
@@ -116,9 +115,9 @@ End-to-end marketing pipeline in Python, SQL Server & Power BI with sentiment an
 <td width="50%" valign="top">
 
 ### 🏦 [Bank Loan Performance & Risk Analytics System](https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis)
-ETL pipelines and risk segmentation across **38,000+** financial records, with Power BI dashboards tracking DTI thresholds and repayment behavior.
+Built ETL pipelines and a borrower risk segmentation model across **38,000+** loan records in Python and SQL, with Power BI dashboards tracking DTI thresholds and repayment behavior.
 
-**Impact:** flagged **$28.2M** in charged-off exposure, **+30%** risk detection accuracy.
+**Key Finding:** Identified **$28.2M** in charged-off loan exposure within the dataset. The segmentation logic flagged high-risk borrowers with an estimated **30% higher precision** than a single-threshold baseline rule.
 
 `Python` `SQL` `Power BI` `Risk Modeling`
 
@@ -126,9 +125,9 @@ ETL pipelines and risk segmentation across **38,000+** financial records, with P
 <td width="50%" valign="top">
 
 ### 📉 [SaaS Retention, Churn & Cohort Analytics Framework](https://github.com/Hamza-227/SaaS-Customer-Churn-Cohort-Analysis)
-Cohort and churn segmentation models across **7,000+** telecom records analyzing contract behavior and revenue risk.
+Built cohort and churn segmentation models across **7,000+** telecom customer records in Python and SQL, analyzing contract type, tenure, and billing behavior against churn outcomes.
 
-**Impact:** identified **$1.67M** revenue at risk at a **58%** churn rate.
+**Key Finding:** The highest-risk cohort showed a **58%** churn rate, representing an estimated **$1.67M** in associated recurring revenue.
 
 `Python` `SQL` `Power BI` `Cohort Analysis`
 
@@ -138,9 +137,9 @@ Cohort and churn segmentation models across **7,000+** telecom records analyzing
 <td colspan="2" valign="top">
 
 ### 🛍️ [Retail Customer Insights & Sales Optimization Analytics](https://github.com/Hamza-227/Retail-customer-insights-sales-optimization)
-RFM segmentation and EDA across **3,900+** transactions analyzing discount impact and revenue distribution across demographics and product categories.
+Performed RFM segmentation and exploratory data analysis on **3,900+** transactions, examining discount impact and revenue distribution across customer demographics and product categories.
 
-**Impact:** exposed a **2x gender revenue gap**, **50%** discount dependency on top SKUs, and **2,518** unconverted repeat buyers — improving targeting efficiency by **25%**.
+**Key Finding:** Revenue was roughly **2x higher** in one gender segment than the other, top SKUs showed **50%** dependency on discounting, and **2,518** repeat buyers had not converted on recent offers — segments a targeted campaign could plausibly address.
 
 `Python` `SQL` `Power BI` `EDA`
 
@@ -191,10 +190,9 @@ RFM segmentation and EDA across **3,900+** transactions analyzing discount impac
 
 <div align="center">
 
-### 🤝 Let's Collaborate
+### 🤝 Let's Connect
 
-**Data doesn't speak for itself — I make it talk.**
-Open to remote Data Analyst roles and freelance projects.
+**Open to remote Data Analyst and internship opportunities, as well as freelance analytics projects.**
 
 <a href="mailto:hamzaanjum664@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-2C5364?style=for-the-badge&logo=maildotru&logoColor=F2C811"/></a>
 
