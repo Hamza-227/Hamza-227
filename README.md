@@ -19,19 +19,18 @@
 
 ## 👨🏻‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
+<img align="right" width="280" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
 
-```yaml
-role:        Data Analyst
-focus:       End-to-end analytics — e-commerce, banking, SaaS, marketing, retail
-core_skills: [SQL, Python, Power BI, Excel, ETL]
-specialties: [Data Warehousing, RFM Segmentation, CLV Modeling, Churn Analytics]
-freelance:   Fiverr — Data Analyst, 2024 – Present
-education:   BS Computer Science @ UVAS Business School (2024 – 2028)
-mission:     Turn raw, messy data into clear business intelligence
-             that drives measurable revenue and operational impact.
-status:      Open to remote Data Analyst opportunities 🌍
-```
+I'm a **Data Analyst** who builds end-to-end analytics solutions — from raw, messy data to executive-ready dashboards — across e-commerce, banking, SaaS, marketing, and retail. I care about the story behind the numbers: the pipeline is just plumbing, the insight is the point.
+
+- 🔭 Currently freelancing as a **Data Analyst on Fiverr** (2024 – Present)
+- 🏗️ Building end-to-end pipelines — **Python → SQL → Power BI → business recommendations**
+- 📈 Specialize in **data warehousing, RFM segmentation, CLV modeling & churn analytics**
+- 🎓 Studying **BS Computer Science** at UVAS Business School (2024 – 2028)
+- 🌍 **Open to remote Data Analyst roles** — let's talk if you're hiring
+- ⚡ Fun fact: every project below started as a messy spreadsheet nobody wanted to touch
+
+<br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
 
