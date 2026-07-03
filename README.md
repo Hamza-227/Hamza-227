@@ -37,19 +37,36 @@ I'm a **Data Analyst** with a portfolio of independent analytics projects spanni
 
 <table align="center">
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="33%">
 
-**🔤 Languages & Query**
+**💻 Programming Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="33%">
 
-**📊 Analysis & ML Libraries**
+**🗄️ Databases**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**📊 BI & Visualization**
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+
+**🐍 Python Libraries**
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br/>
@@ -58,26 +75,20 @@ I'm a **Data Analyst** with a portfolio of independent analytics projects spanni
 <img src="https://img.shields.io/badge/NLTK%2FVADER-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="33%">
 
-**🏗️ Data Engineering**
+**🏗️ Data Warehousing & ETL**
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Star%20Schema-2C5364?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/ETL%20Pipelines-2C5364?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-2C5364?style=for-the-badge"/>
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="33%">
 
-**☁️ Visualization, Cloud & Tools**
+**⚙️ Development Tools**
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </td>
