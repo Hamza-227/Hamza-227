@@ -36,35 +36,54 @@ I'm a **Data Analyst** who builds end-to-end analytics solutions — from raw, m
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" valign="top" width="25%">
 
-**Languages & Query**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+**🔤 Languages & Query**
 
-**Data Analysis & ML Libraries**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLTK%2FVADER-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-**Data Engineering & Warehousing**
-<br/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Star%20Schema-ETL-2C5364?style=flat-square"/>
-<img src="https://skillicons.dev/icons?i=databricks&theme=dark"/>
+</td>
+<td align="center" valign="top" width="25%">
 
-**Visualization, Cloud & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=git,github,azure,aws&theme=dark"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+**📊 Analysis & ML Libraries**
 
-</div>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/NLTK%2FVADER-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🏗️ Data Engineering**
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Star%20Schema-2C5364?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-2C5364?style=for-the-badge"/><br/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**☁️ Visualization, Cloud & Tools**
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
 
