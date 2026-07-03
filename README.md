@@ -1,101 +1,187 @@
-<h1 align="center">Hi there, I'm <a href="https://hamza-anjum-portfolio.netlify.app/">Hamza</a> 👋</h1>
-<p align="center">
-  <a href="https://hamza-anjum-portfolio.netlify.app/">Portfolio</a> -
-  <a href="https://linkedin.com/in/hamza-anjum-459bba320/">LinkedIn</a> -
-  <a href="mailto:hamzaanjum664@gmail.com">Email</a>
-</p>
-<hr>
+<div align="center">
 
-<h2>👨🏻‍💻 About Me</h2>
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300px" align="right"/>
-<p>
-✨ <b>Data Analyst</b> experienced in building end-to-end analytics solutions across e-commerce, banking, SaaS, marketing, and retail <br>
-⚡ Turning raw, complex data into clear <b>business intelligence</b> that drives measurable decisions <br>
-📊 Skilled in SQL, Python, Power BI, ETL pipelines, data modeling, segmentation & churn analysis <br>
-🏦 Built data warehouses, risk models, and cohort analytics on datasets from 3,900 to 60,000+ records <br>
-🌍 Open to <b>remote Data Analyst</b> opportunities | Freelancing on Fiverr since 2024 <br>
-🎓 BS Computer Science @ UVAS Business School (2024 – 2028) <br>
-📫 Reach me: <a href="mailto:hamzaanjum664@gmail.com">Email</a> |
-<a href="https://linkedin.com/in/hamza-anjum-459bba320/">LinkedIn</a> <br>
-💬 Ask me about Data Analysis, SQL, ETL, Power BI, or Data Warehousing
-</p>
-<hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hamza%20Anjum&fontSize=60&fontColor=F2C811&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20"/>
 
-<h2>🛠 Tech Stack</h2>
-<p>
-<b>Languages & Query:</b>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-CC2927?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black"/>
-<br>
-<b>Libraries:</b>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0"/>
-<img src="https://img.shields.io/badge/NLTK%2FVADER-3776AB?logo=python&logoColor=white"/>
-<br>
-<b>Databases & Data Engineering:</b>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Star%20Schema%20ETL-informational"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white"/>
-<br>
-<b>Tools & Cloud:</b>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>
-</p>
-<hr>
+<a href="https://hamza-anjum-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=F2C811"/></a>
+<a href="https://linkedin.com/in/hamza-anjum-459bba320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hamzaanjum664@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Hamza-227"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<h2>📂 Featured Projects</h2>
-<p>
-🏗️ <a href="https://github.com/Hamza-227/Shopify_sales_analysis-">Shopify Data Warehouse & Customer Intelligence Platform</a> — 7-table star schema over 60,000+ orders, RFM segmentation & CLV modeling, Power BI dashboards revealing an 80/20 Pareto revenue split<br>
-📣 <a href="https://github.com/Hamza-227/Marketing__Analytics">Marketing Performance & Customer Sentiment Analytics Platform</a> — Python/SQL Server/Power BI pipeline with NLTK/VADER sentiment analysis, surfaced a 4.3% vs 10.2% conversion gap across segments<br>
-🏦 <a href="https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis">Bank Loan Performance & Risk Analytics System</a> — ETL + risk segmentation across 38,000+ records, identified $28.2M in charged-off exposure, 30% better risk detection<br>
-📉 <a href="https://github.com/Hamza-227/SaaS-Customer-Churn-Cohort-Analysis">SaaS Retention, Churn & Cohort Analytics Framework</a> — cohort/churn models across 7,000+ telecom records, $1.67M revenue-at-risk identified at 58% churn<br>
-🛍️ <a href="https://github.com/Hamza-227/Retail-customer-insights-sales-optimization">Retail Customer Insights & Sales Optimization Analytics</a> — RFM segmentation & EDA on 3,900+ transactions, surfaced a 2x gender revenue gap and 2,518 unconverted repeat buyers
-</p>
-<hr>
+<br/>
 
-<h2>🏅 Certification Badges</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;Building+ETL+pipelines+%26+Star+Schema+warehouses;Python+%2B+SQL+%2B+Power+BI+%3D+actionable+insight;Open+to+remote+Data+Analyst+roles+%F0%9F%8C%8D"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
+
+## 👨🏻‍💻 About Me
+
+<img align="right" width="320" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
+
+```yaml
+role:        Data Analyst
+focus:       End-to-end analytics — e-commerce, banking, SaaS, marketing, retail
+core_skills: [SQL, Python, Power BI, Excel, ETL]
+specialties: [Data Warehousing, RFM Segmentation, CLV Modeling, Churn Analytics]
+freelance:   Fiverr — Data Analyst, 2024 – Present
+education:   BS Computer Science @ UVAS Business School (2024 – 2028)
+mission:     Turn raw, messy data into clear business intelligence
+             that drives measurable revenue and operational impact.
+status:      Open to remote Data Analyst opportunities 🌍
+```
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages & Query**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+**Data Analysis & ML Libraries**
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLTK%2FVADER-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+**Data Engineering & Warehousing**
+<br/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Star%20Schema-ETL-2C5364?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=databricks&theme=dark"/>
+
+**Visualization, Cloud & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,azure,aws&theme=dark"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
+
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ [Shopify Data Warehouse & Customer Intelligence Platform](https://github.com/Hamza-227/Shopify_sales_analysis-)
+7-table star schema over **60,000+ orders** built with Python + advanced SQL (CTEs, LAG, LEAD, RANK, NTILE). RFM segmentation & CLV modeling feed executive Power BI dashboards.
+
+**Impact:** uncovered a Pareto insight — top 20% of customers drive **~80% of revenue**.
+
+`Python` `PostgreSQL` `Power BI` `RFM/CLV`
+
+</td>
+<td width="50%" valign="top">
+
+### 📣 [Marketing Performance & Sentiment Analytics Platform](https://github.com/Hamza-227/Marketing__Analytics)
+End-to-end marketing pipeline in Python, SQL Server & Power BI with sentiment analysis (NLTK, VADER) and CTR/engagement KPI tracking.
+
+**Impact:** surfaced a **4.3% vs 10.2%** conversion gap across customer segments.
+
+`Python` `SQL Server` `Power BI` `NLP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 [Bank Loan Performance & Risk Analytics System](https://github.com/Hamza-227/Bank-Loan-Performance-and-Risk-Analysis)
+ETL pipelines and risk segmentation across **38,000+** financial records, with Power BI dashboards tracking DTI thresholds and repayment behavior.
+
+**Impact:** flagged **$28.2M** in charged-off exposure, **+30%** risk detection accuracy.
+
+`Python` `SQL` `Power BI` `Risk Modeling`
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 [SaaS Retention, Churn & Cohort Analytics Framework](https://github.com/Hamza-227/SaaS-Customer-Churn-Cohort-Analysis)
+Cohort and churn segmentation models across **7,000+** telecom records analyzing contract behavior and revenue risk.
+
+**Impact:** identified **$1.67M** revenue at risk at a **58%** churn rate.
+
+`Python` `SQL` `Power BI` `Cohort Analysis`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🛍️ [Retail Customer Insights & Sales Optimization Analytics](https://github.com/Hamza-227/Retail-customer-insights-sales-optimization)
+RFM segmentation and EDA across **3,900+** transactions analyzing discount impact and revenue distribution across demographics and product categories.
+
+**Impact:** exposed a **2x gender revenue gap**, **50%** discount dependency on top SKUs, and **2,518** unconverted repeat buyers — improving targeting efficiency by **25%**.
+
+`Python` `SQL` `Power BI` `EDA`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
+
+## 🏅 Certifications
+
 <p align="center">
 <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-82ac3c28-c39f-409a-8d8a-153aebd26ebe.jpg">
-<img src="https://img.shields.io/badge/Udemy-SQL%20%26%20Data%20Analysis-purple?style=for-the-badge&logo=udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Udemy-SQL%20for%20Data%20Analysis-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
 </a>
 <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_Bi6siW6NHK8Jknz58_1744988153029_completion_certificate.pdf">
-<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-000000?style=for-the-badge&logo=deloitte&logoColor=white"/>
 </a>
 <a href="https://certificates.cs50.io/c9667992-481b-43f3-95f2-2cf509f1939b.pdf?size=letter">
-<img src="https://img.shields.io/badge/Harvard-CS50%20Python-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Harvard-CS50%20Python-A51C30?style=for-the-badge&logo=harvard&logoColor=white"/>
 </a>
 </p>
-<hr>
 
-<details>
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Hamza-227&theme=tokyonight&hide_border=true" />
-</p>
-</details>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
 
-<details>
-<summary><b>📈 Code Stats</b></summary>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-</details>
-<hr>
+## 📊 GitHub Analytics
 
-<p align="center">
-Do you want to collaborate? ⟶ <a href="mailto:hamzaanjum664@gmail.com">Contact Me</a><br><br>
-<b>Show some ❤️ by starring repositories!</b>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Hamza-227&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-227&theme=tokyo-night&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hamza-227&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
+
+<div align="center">
+
+### 🤝 Let's Collaborate
+
+**Data doesn't speak for itself — I make it talk.**
+Open to remote Data Analyst roles and freelance projects.
+
+<a href="mailto:hamzaanjum664@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-2C5364?style=for-the-badge&logo=maildotru&logoColor=F2C811"/></a>
+
+⭐️ **If any of these projects are useful to you, consider starring the repo!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
+
+</div>
