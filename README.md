@@ -72,7 +72,6 @@ I'm a **Data Analyst** with a portfolio of independent analytics projects spanni
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/NLTK%2FVADER-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </td>
 <td align="center" valign="top" width="33%">
