@@ -1,25 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hamza%20Anjum&fontSize=60&fontColor=F2C811&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hamza%20Anjum&fontSize=60&fontColor=F2C811&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://hamza-anjum-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=F2C811"/></a>
 <a href="https://linkedin.com/in/hamza-anjum-459bba320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hamzaanjum664@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Hamza-227"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=650&lines=Analyzing+data+to+support+business+decisions;Building+ETL+pipelines+%26+Star+Schema+data+warehouses;Data+Analyst+%E2%80%94+Python%2C+SQL+%26+Power+BI;Open+to+remote+Data+Analyst+roles+%F0%9F%8C%8D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F2C811&center=true&vCenter=true&width=650&lines=Analyzing+data+to+support+business+decisions;Building+ETL+pipelines+%26+Star+Schema+data+warehouses;Data+Analyst+%E2%80%94+Python%2C+SQL+%26+Power+BI;Open+to+remote+Data+Analyst+roles+%F0%9F%8C%8D" width="90%"/>
 
 </div>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
 
 ## 👨🏻‍💻 About Me
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png"/>
 
 I'm a **Data Analyst** with a portfolio of independent analytics projects spanning e-commerce, banking, SaaS, marketing, and retail datasets. Each project follows a consistent workflow: data cleaning and ETL in Python, analysis and transformation in SQL, and visualization in Power BI, concluding with data-driven observations.
 
@@ -29,13 +23,11 @@ I'm a **Data Analyst** with a portfolio of independent analytics projects spanni
 - 🎓 Pursuing a **BS in Computer Science** at UVAS Business School (2024 – 2028)
 - 🌍 **Actively seeking remote Data Analyst and internship opportunities**
 
-<br clear="right"/>
-
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.gif" width="100%">
 
 ## 🛠 Tech Stack
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
 <td align="center" valign="top" width="33%">
 
@@ -71,7 +63,7 @@ I'm a **Data Analyst** with a portfolio of independent analytics projects spanni
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
 </td>
 <td align="center" valign="top" width="33%">
@@ -98,7 +90,7 @@ I'm a **Data Analyst** with a portfolio of independent analytics projects spanni
 
 ## 📂 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -179,20 +171,12 @@ Performed RFM segmentation and exploratory data analysis on **3,900+** transacti
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hamza-227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-227&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=Hamza-227&theme=tokyonight&hide_border=true" width="98%"/>
 
-<img src="https://streak-stats.demolab.com?user=Hamza-227&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-227&theme=tokyo-night&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hamza-227&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hamza-227&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -208,6 +192,6 @@ Performed RFM segmentation and exploratory data analysis on **3,900+** transacti
 
 ⭐️ **If any of these projects are useful to you, consider starring the repo!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%">
 
 </div>
